@@ -1,10 +1,16 @@
 _repo: The-Log-of-the-Empire-State_6747
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Shaffer, Geneve L. A.
     gutenberg_agent_id: '2187'
     url: http://www.gutenberg.org/2009/agents/2187
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/6747#The-Log-of-the-Empire-State
 gutenberg_issued: '2004-10-01'
 gutenberg_type: Text
 identifiers:
